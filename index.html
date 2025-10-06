@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>OFERTAS</h1>
+        <button id="abrir">Mas informacion</button>
+        <dialog id="dialog">
+            <h2>Oferta exclusiva</h2>
+            <p>Aprovecha la oferta por tiempo limitado con el siguienteo codigo de descuento: 00001</p>
+            <button id="cerrar">Cerrar</button>
+        </dialog>
+    </main>
+    <script>
+        window.abrir.addEventListener('click', ()=>{
+            window.dialog.showModal()
+        })
+        window.cerrar.addEventListener('click', ()=>{
+            window.dialog.close()
+        })
+    </script>
+</body>
+</html>
