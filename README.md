@@ -52,3 +52,13 @@ Las funcion es que se usan para poder iniciar un proyeto en React son los diguie
 indica donde queremos que React empiece a trabajar
 
     root.render(<h1>Develop. Preview. Ship.</h1>); Y con esto indicas que mostrar dentro de ese espacio
+
+----------------------------------------------------------------------------------------------------------
+
+### **CHAPTER-5:** BUILDING UI WITH COMPONENTS
+
+Uno de los conceptos centrales de React son lo componentes.
+
+#### COMPONENTES
+
+Un componente es como un funcion en JavaScript el cual retorna un elemento de la interfaz de usuario por que combina sintaxis HTML y de JavaScript. Los componentes se usan por que al ser como un bloque de contruccion se puede reutilizar en cualquier parte de codigo y al ser una parte pequeña de todo el codigo permite tener mejor control de cada parte y poder escalar el codigo facilmente y modificar solo un componente si es necesario sin afectar al resto de codigo.
