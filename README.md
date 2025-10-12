@@ -71,7 +71,11 @@ El segundo cocepto central en React son los props(accesorios o parametros).
 
 #### PROPS
 
-Son como los atributos que se tienen en HTML para pasar alguna informacion adicional al elemento HTML, un drop cumple la misma funcion pero para un componente en React y asi cambiar el comportamiento del componente.Ejemplo: <Header title="React" />.
+Son como los atributos que se tienen en HTML para pasar alguna informacion adicional al elemento HTML, un drop cumple la misma funcion pero para un componente en React y asi cambiar el comportamiento del componente.Ejemplo: 
 
-Para mostrar variables y expresiones de JavaScript en el HTML se hace uso de las llaves {}, por ejemplo:<h1>{title}</h1>
+    <Header title="React" />.
+
+Para mostrar variables y expresiones de JavaScript en el HTML se hace uso de las llaves {}, por ejemplo:
+
+    <h1>{title}</h1>
 
