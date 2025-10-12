@@ -62,3 +62,16 @@ Uno de los conceptos centrales de React son lo componentes.
 #### COMPONENTES
 
 Un componente es como un funcion en JavaScript el cual retorna un elemento de la interfaz de usuario por que combina sintaxis HTML y de JavaScript. Los componentes se usan por que al ser como un bloque de contruccion se puede reutilizar en cualquier parte de codigo y al ser una parte pequeña de todo el codigo permite tener mejor control de cada parte y poder escalar el codigo facilmente y modificar solo un componente si es necesario sin afectar al resto de codigo.
+
+----------------------------------------------------------------------------------------------------------
+
+### **CHAPTER-6:** DISPLAYING DATA WITH PROPS
+
+El segundo cocepto central en React son los props(accesorios o parametros).
+
+#### PROPS
+
+Son como los atributos que se tienen en HTML para pasar alguna informacion adicional al elemento HTML, un drop cumple la misma funcion pero para un componente en React y asi cambiar el comportamiento del componente.Ejemplo: <Header title="React" />.
+
+Para mostrar variables y expresiones de JavaScript en el HTML se hace uso de las llaves {}, por ejemplo:<h1>{title}</h1>
+
