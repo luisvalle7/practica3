@@ -79,6 +79,8 @@ Para mostrar variables y expresiones de JavaScript en el HTML se hace uso de las
 
     <h1>{title}</h1>
 
+----------------------------------------------------------------------------------------------------------
+
 ### **CHAPTER-7:**  ADDING INTERACTIVITY WITH STATE
 
 El tercer cocepto centar en React son los controladores de estado y eventos.
@@ -90,4 +92,5 @@ Un evento es una accion que se ejecuta al momento de que el usuario interactue c
 #### STATES AND HOOKS
 
 Los States son variables que guardan informacion que puede cambiar en el componente, debido a la interaccion del usuario y la aplicacion. Mientras que los Hooks son funciones que permite agregar logica extra a los componente como crear y manejar States, es decir que ambos trabajan en conjunto para que la inteccion con el usuario sea mas dinamico.
+
 
