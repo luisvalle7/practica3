@@ -97,4 +97,19 @@ Los States son variables que guardan informacion que puede cambiar en el compone
 
 ### **CHAPTER-8:** FROM REACT TO NEXT.JS
 
-Preparacion de la aplicacion para poder migrar a Next.js.
+Preparacion de la aplicacion de React para poder migrar a Next.js.
+
+----------------------------------------------------------------------------------------------------------
+
+### **CHAPTER-9:** INSTALLING NEXT.JS
+
+#### ¿QUE ES NEXT.JS?
+
+Es un framawork que se basa en React el cual nos permite contruir aplicaciones web sin tener que confiruar todo desde cero.
+
+Para migrar nuestro aplicaion de React a Next.js Se deben seguir los siguientes pasos:
+- Instalar Node.js que es una herramienta que permite usar JavaScript en el lado del servidor.
+- Crear un archivo llamado package.json donde se guarda informacion y dependencias necesarias para que funcione correctamente.
+- Instalar lo necesario para crear aplicaciones con React y Next.js mediante el siguiente comando npm   install react@latest react-dom@latest next@latest.
+Con todos esta configuracion se hace una migracion a Next.js y gracias a eso no es necesatio escribir HTML puro y no es necesario usar scripts externos de JavaScript ya que Next.js maneja todo eso automaticamente.
+
