@@ -93,4 +93,8 @@ Un evento es una accion que se ejecuta al momento de que el usuario interactue c
 
 Los States son variables que guardan informacion que puede cambiar en el componente, debido a la interaccion del usuario y la aplicacion. Mientras que los Hooks son funciones que permite agregar logica extra a los componente como crear y manejar States, es decir que ambos trabajan en conjunto para que la inteccion con el usuario sea mas dinamico.
 
+----------------------------------------------------------------------------------------------------------
 
+### **CHAPTER-8:** FROM REACT TO NEXT.JS
+
+Preparacion de la aplicacion para poder migrar a Next.js.
